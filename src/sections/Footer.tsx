@@ -48,6 +48,7 @@ export const Footer = () => {
             <XSocial className=" text-white/40 hover:text-white transition" />
             <InstaSocial className=" text-white/40 hover:text-white transition" />
             <YtSocial className=" text-white/40 hover:text-white transition" />
+            <div className=" font-medium">Made by Hani Dev</div>
           </div>
         </div>
       </div>
